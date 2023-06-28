@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Expenses from './components/expenses';
+import Expenses from './components/Expenses/expenses';
 
 function App() {
   const expenses = [
